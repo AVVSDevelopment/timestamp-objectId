@@ -1,5 +1,5 @@
 {
-  "name": "timestamp-objectId",
+  "name": "timestamp-objectid",
   "version": "0.1.0",
   "description": "Creates objectId from timestamp",
   "main": "index.js",
