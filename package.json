@@ -1,0 +1,25 @@
+{
+  "name": "timestamp-objectId",
+  "version": "0.1.0",
+  "description": "Creates objectId from timestamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/AVVSDevelopment/timestamp-objectId.git"
+  },
+  "keywords": [
+    "objectId",
+    "mongodb",
+    "mongoose",
+    "timestamp"
+  ],
+  "author": "Vitaly Aminev",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/AVVSDevelopment/timestamp-objectId/issues"
+  }
+}
