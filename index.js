@@ -1,6 +1,7 @@
+var ObjectId = require('objectid');
+
 // This function returns an ObjectId embedded with a given datetime
 // Accepts both Date object and string input
-
 function objectIdWithTimestamp(timestamp)
 {
     // Convert string date to Date object (otherwise assume timestamp is a date)
